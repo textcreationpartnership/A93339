@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral oe [sic] the incomparably vertuous and truly pious gentlewoman Mrs. Dorothy Litster. By Edward Smith.</title>
+            <author>Smith, Edward, 1620 or 21-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93339</idno>
+            <idno type="STC">Wing S4022</idno>
+            <idno type="STC">Thomason E1013_19</idno>
+            <idno type="STC">ESTC R208099</idno>
+            <idno type="EEBO-CITATION">99867092</idno>
+            <idno type="PROQUEST">99867092</idno>
+            <idno type="VID">168766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168766)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral oe [sic] the incomparably vertuous and truly pious gentlewoman Mrs. Dorothy Litster. By Edward Smith.</title>
+                  <author>Smith, Edward, 1620 or 21-1682.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.R. for Will. Palmer at the Palm-Tree in Fleet-street over against St. Dunstan's Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Litster, Dorothy.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168766:1" rendition="simple:additions"/>
+            <p>A SERMON <hi>Preached at the</hi> FUNERAL OE THE Incomparably vertuous and truly pious <hi>GENTLEWOMAN M<hi rend="sup">RS.</hi> DOROTHY LITSTER.</hi>
+            </p>
+            <p>By <hi>EDWARD SMITH.</hi>
+            </p>
+            <q>
+               <hi>The Righteous ſhall be had in everlaſting Remembrance.</hi>
+            </q>
+            <q>
+               <hi>The Righteous hath hope in his Death. None conſidereth that they are taken away from the evil to come.</hi>
+            </q>
+            <q>
+               <hi>Bl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the dead that dye in the Lord. For they reſt from their labours, and their works follow them.</hi>
+            </q>
+            <p>VIRTUS <hi>Poſt</hi> FUNERA <hi>vivit.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> for <hi>Will. Palmer</hi> at the <hi>Palm-Tree</hi> in <hi>Fleet-ſtreet</hi> over againſt St. <hi>Dunſtan</hi>'s Church, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168766:2"/>
+            <pb facs="tcp:168766:2"/>
+            <opener>
+               <salute>Madam.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hat I ſhould have deem'd preſumption, flattery, or ſelf-conceit to have offered on my own accord, I reckon my duty to tender upon your requeſt, being fully aſſured, that where the quick eye of your Judgment ſhall find a fault, the tender hand of your goodneſſe will blot it out; and if you find many, you have Charity enough to cover them all. I never yet thought any thing I could do, either worthy the acceptance of ſuch a perſon, or able to abide the teſt of ſuch a judicious hearer or reader, if you ſhould mind to be critical, and therefore ſhould rather have run the hazard of being reputed rude and unmannerly in denying to tranſcribe the notes you lately heard, than to be convict of ignorance and weakneſſe under my owne hand. But being fully aſſured, that out of a dear love to the memory of that precious Gentlewoman, your late dear ſiſter, who being dead, yet ſpeakes to you in what was spoken at her Funeral; and it may be alſo out of a deſire to incourag me in the work of my Miniſtry, you have condeſcen<g ref="char:EOLhyphen"/>ded to ſignify your good liking of what was then deliverd, I have taken upon me the confidence to give you the Sermon, as it is my Notes, &amp; not as it was then curtail'd by the ſhortneſs of the time, &amp; ſharpneſs of the weather, which I here humbly preſent to you, and which I beſeech you to look upon as a teſti<g ref="char:EOLhyphen"/>many of my thankful reſentment of thoſe many obliging favours I have recei<g ref="char:EOLhyphen"/>ved from you. For to a ſervice of this nature, no conſideration but that of Duty and Gratitude could ever have moved me. What I ſpake concerning the ſweet and precious <hi>Mrs</hi> Litſter, you have to a word almoſt as it was then delivered, where yet I find my ſelf in a straight, thoſe who knew her not, will condemne me of flattery and laviſhneſſe in my expreſſions, thoſe who knew her, will blame me as to low and ſcant, wronging both her and the auditory, to which I can only ſay, God and my own conſcience acquit me from the firſt, my weakneſs and unfitneſſe for a work ſo much above me, will begg, if not from others, yet from you my pardon for the laſt; <hi>Madam,</hi> How much of the comfort of my life, and of cheerfulneſſe in the work of my Miniſtry I owe to <hi>Mr.</hi> Hartop and yourſelfe; I have a deeper ſenſe, than I have either power or opportunity at this time to expreſſe, only to what I have ſaid, I add this, God forbid I ſhould ſin againſt him in ceaſing to pray and praiſe God for you and yours, I humbly take leave and remaine.</p>
+            <closer>
+               <salute>Madam.</salute>
+               <signed>Your poore and unworthy, but many ways obliged ſervant. Edward Smith.</signed>
+               <dateline>Hoby <date>this 30. of <hi>December.</hi> 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:168766:3"/>
+            <pb facs="tcp:168766:3"/>
+            <p>AS undue praiſes is a piece of flattery that ſuits only with baſe and ſlaviſh ſpirits, who dare ſacrifice their Con<g ref="char:EOLhyphen"/>ſciences to ſatisfy ſome perſons vain glorious humour, endeavouring by the vermilion of their ſale-oratory to paint them at their death like Saints, who in their life<g ref="char:EOLhyphen"/>time, were no better than Devils. So on the other ſide to deny Commendations where true worth claimes them as due, is a ſuper<g ref="char:EOLhyphen"/>ſtitious niceneſs ſavouring either of ignorance to deſcern it, or of malice, not to acknowledg it, or of injuſtice to render it.</p>
+            <p>And therefore I think he was not miſtaken, to whom it ſeemed as re<g ref="char:EOLhyphen"/>all apoynt of Religion to honour the vertues, as to reli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve then ceſſito is. For I am ſure as this is commanded by the Apoſtle, <hi>James c. 1. v.</hi> 27. ſo the other is allowed by <hi>Solomon,</hi> who ſpendeth, almoſt the 31th chapter of the <hi>Proverbs</hi> in the praiſe of the vertuous women, and <hi>v.</hi> 30. ſaith, <hi>A woman that feareth the Lord, ſhe ſhall be praiſed.</hi> I think ſuch and none but ſuch, for according to Morall philoſophy praiſe is a moral Conſe<g ref="char:EOLhyphen"/>ſequent of vertuous actions. And as the wiſe man warrants our Com<g ref="char:EOLhyphen"/>mendation of the vertuous, ſo the Knowledg that many here preſent had of the vertues of this deceaſed Gentlewoman, will not only warrant, but require it as a due ſatisfaction to their juſt expectation, that as we are taught that we muſt die by this ſpectacle of mortality, ſo how to live and die by ſetting before us, though but in ſome darke and ſhaddowy repreſentations the patte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of her never dying vertues.</p>
+            <p>But I am given to underſtand that this is not regarded at any hands: Yet I hope I may do my ſelf that right, as to pay ſome ſmall tribute of that reſpect, and honour, which I do and ſhall owe to his precious Me<g ref="char:EOLhyphen"/>mory and you the ſervice of quickning your graces by reminding you of hers, which I doubt not wilbe acceptable to ſome, and I hope none here ſo ſqueamiſhly affected as to be offended at it.</p>
+            <p>And here I ſhall not mention her deſcent, her being ſuch a Knights Daughter, this we owe to fortune (if you<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> allow the wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d) that often favous fooles, or neceſſity, ſuch a diſcourſe would be here but a trouble<g ref="char:EOLhyphen"/>ſome impertinency, which it may be, if one were tied to ſpeak of ſome great perſons, muſt be the principall argument for want of better.
+<pb n="2" facs="tcp:168766:4"/> But though many of our degenerate Nobility and Gentry think it ho<g ref="char:EOLhyphen"/>nour and Dignity ſufficient, that they be known to be the Sons &amp; Daugh<g ref="char:EOLhyphen"/>ters of ſuch Parents: ſuch a Noble mans ſon, ſuch a Knights daughter, and Glory, worldly Nobility neceſſarily deſcending upon them, need not endeavour to excel in any worthy or well-doing; yet, I am ſure this de<g ref="char:EOLhyphen"/>ceaſed Gentlewoman was otherwiſe minded, counting it a ſmall thing that ſhe was ſuch a Great mans Daughter, unleſs ſhe was alſo Daughter to a Greater Father, even to the Lord Almighty, 1 <hi>Cor.</hi> 9.</p>
+            <p>For where Vertue is wanting, Great men, as Sir <hi>W. Raleigh</hi> truly ſays, <hi>are but like painted papers, whom ignorant perſons worſhip in ſtead of Chriſt, our Lady, or other Saints.</hi>
+            </p>
+            <p>That therefore which will for ever endear her memory to us, is, her care to enoble her birth by Grace; making honour, which uſually, yea, naturally deſcends to go up the Channel. For it was not ſo much honour to her that Sir <hi>Mart. Litſter</hi> was her Father, as it was to him that he had ſuch a Daughter.</p>
+            <p>Such a Daughter, I ſay, whoſe tender yeares were ſeaſoned with Grace, who, as if ſhe had foreſeen how ſhort her day was, like a good Houſwife got up in the morning of her life, and finiſhed her work before the night of Death could ſurprize her.</p>
+            <p>The time would fail me, ſhould I ſpeak of her rare natural Endow<g ref="char:EOLhyphen"/>ments, her quick fancy, her piercing wit, her skill in the <hi>French</hi> Lan<g ref="char:EOLhyphen"/>guage, the improvement ſhe made of her liberal and religious education under the vertuous and pious Lady, the Lady <hi>Denham.</hi>
+            </p>
+            <p>Neither muſt I here call to mind, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> her ſweet and gentle Diſpoſition (which very rarely accompanies ſuch parts) whereby ſhe tyed the ſoules of all that knew her, as well to love, as ad<g ref="char:EOLhyphen"/>mire her; nor yet may I do more than barely mention her courteous and modeſt deportment, her wiſe, witty and pertinent Diſcourſes, that rendred her ſo beloved and deſired, while ſhe lived, &amp; ſo lamented now dead. All this would but renew our ſorrow be imminding us of our loſs.</p>
+            <p>That therefore which I'le ſpeak to is, What is yet more conſidera<g ref="char:EOLhyphen"/>able, and worthy both praiſe and imitation, ſuch as may rather move our emulation of her Piety, than afflict our memories with the ſenſe of our loſs: and what I ſhall ſay concerning her life for the quickening of our dead and drowſie ſoules, ſhall be ſuch as wherein I am well aſſured, neither my own heart; nor any ſoul living, ſhal be able to give me the lye.</p>
+            <p>She was conſtant, diligent, and Reverend in attending the publike ex<g ref="char:EOLhyphen"/>erciſes of Gods Worſhip. And there are thoſe here preſent, who can witneſs, and I hope will imitate her Chriſtian courſe of private reading, prayer and meditation, thoſe morning and evening ſacrifices.</p>
+            <pb n="3" facs="tcp:168766:4"/>
+            <p>Though ſhe was not careleſs of her body, yet ſhe ſpent not her time <hi>in<g ref="char:EOLhyphen"/>ter pectinem &amp; ſpeculum;</hi> her greateſt care was to trim up her ſoul, and whatever elſe ſhe minded, never forgot to put on thoſe Ornaments of a meek and quiet ſpirit, which in the ſight of God and all good men is of great price.</p>
+            <p>She kept ſo ſtrict a watch over her ſelf, that ſhe lived in the world un<g ref="char:EOLhyphen"/>ſpotted with the vanities of youth, which time, the generality look upon as priviledged from ſuch ſerious entertainments of themſelves, and ſe<g ref="char:EOLhyphen"/>verities of Religion.</p>
+            <p>She remembred her Creator in the dayes of her youth, and He did not forget her, but took her into his own Teaching, and learn't her ſo effe<g ref="char:EOLhyphen"/>ctually thoſe Great Leſſons of ſelf-denyal and mortification, that, con<g ref="char:EOLhyphen"/>trary to thoſe ſilly women mentioned by St. <hi>Paul;</hi> whereas for her time ſhe might have been a Learner, for her learning in divine things, ſhe was fit to teach others the wayes of God: I am ſure, I have thought ſo when I have been with her, and that far greater abilities than I dare pretend to, might have convers'd with her to their very great Advantage; ſhe kept ſuch a mean between irreligion, &amp; a phantaſtical ſuperſtitious nice<g ref="char:EOLhyphen"/>neſs, as that I have thought I never knew any ſo becomingly Religious.</p>
+            <p>She was exactly carefull of the Government of her inward man, to keep her paſſions in ſubjection to her Reaſon and Religion: wherein ſhe was ſo happy, as thoſe who beſt knew her can witneſſe: ſhe was of that even Temper, that ſhe was never known to exceed either in joy, or ſorrow for any outward things; as if ſhe had converted not only the nobler Principles of the beſt Philoſophy, but alſo the Rules of the Goſ<g ref="char:EOLhyphen"/>pel, and the beſt example of our bleſſed Saviour <hi>in ſuccum &amp; ſanguinem.</hi>
+            </p>
+            <p>She had ſuch a rare mixture of parts, humility and goodneſſe, as will ſcarcely be found elſwhere in theſe yeares and degrees; that like the Kings Daughter ſhe was glorious within, and doubtleſſe the Temple of the living God.</p>
+            <p>Her vertues were ſo admirably ſhining, that I may ſay as truly of her as a learned man of a Lady in his Epiſtle Dedicatory; That <hi>Plato, if he had lived in her time, might have found his timorous ſuppoſition brought into</hi> 
+               <note place="margin">H. M.</note> 
+               <hi>abſolute Act, and to the enraviſhment of his amazed ſoul, might have be<g ref="char:EOLhyphen"/>held Vertue become viſible to his outward ſight.</hi>
+            </p>
+            <p>I could be very well pleaſed to go on with this Diſcourſe, and might ſpend the whole time allotted me in it, and neither exceed the bounds of Truth, nor the patience of thoſe who have had the happineſſe of any in<g ref="char:EOLhyphen"/>timate acquaintance and Converſes with her.</p>
+            <p>She had attained (which I had almoſt forgot) that high pitch of Chri<g ref="char:EOLhyphen"/>ſtianity, patiently to bear, and freely, and readily to forgive injuries.</p>
+            <pb n="4" facs="tcp:168766:5"/>
+            <p>And that ſhe had ſuch an excellent ſoul, that ſhe was ſo good a Chri<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ian, and her heart ſuch a Treaſure of good things, he muſt be an arrant Sce<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck that ſhould doubt of it, who knew how able and ready ſhe was to aſſiſt any ſick perſons, whether kindred, ſervants o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others, with her pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yers, reading, conſulting, comforting, by ſpeaking a word in ſeaſon. And ſhall underſtand alſo in what a heavenly ſtate both ſickneſs &amp; Death found her, which we may gueſſe at by the pulſe of her ſoul, which beat, as it proceedeth lively to God; out of the abundance of the heart, ſayes the Scripture, <hi>The mouth ſpeak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and a corrupt fountain doth not ſend forth ſweet waters.</hi>
+            </p>
+            <p>She had at the beginning of her ſickneſs ſo many, ſo full &amp; pertinent Scriptures and other Ejaculations and heavenly expreſſions, as if ſhe had never acquainted her-tongue with any other Language, as if ſhe had been <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a living Bible, ſo care<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull had ſhe been of the Apoſtles exhortation, to let the <hi>Word of God dwell richly</hi> in her; Doubtleſſe, her h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had been long in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing much good matter, which made her tongue like the Pen of a ready Writer.</p>
+            <p>She ſpake ſo fully and clearly of heavenly things, and was ſo ſenſibly pleaſed with them, even when ſhe had almoſt left to be ſenſible of any thing e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, that one would have thou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht her ſoul, not only in the ſuburbs, or at the gate of Heaven, but already entred into the joy of her Lord, and taken into the boſom of her Heavenly Father.</p>
+            <p>Oh! how was her heart e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>flamed with love to God, and that love kept lively with aſſurances of his love to her! I remember amongſt other hea<g ref="char:EOLhyphen"/>venly expreſſions, I he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd her ſay, <hi>I have loved God, and do love Him, and God loves me: Oh how thy comforts refreſh my ſoul!</hi>
+            </p>
+            <p>And that this was no meer melancho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick fancy, we need no other Argu<g ref="char:EOLhyphen"/>ment than her extream (not to ſay Contentedneſſe but) deſire to dye. How loath was ſhe to think of living. I am now, ſaies ſhe, almoſt through my journey, it's a journey I muſt go, and were I not better go thorow it now to God, than come back again into the world?</p>
+            <p>But if any ſhould ſay as <hi>Rebekah</hi> did, I fit be ſo, why was ſhe then af<g ref="char:EOLhyphen"/>flicted in ſuch a manner?</p>
+            <p>I anſwer, 1. That afflictions, though un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>outh and extraordinary, are no more an argument of Gods diſpleaſure, than proſperity is of his love, otherwiſe. <hi>Job</hi> or <hi>David,</hi> who, while they ſuff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s terrors were diſtracted, ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou'd have been wicked. <hi>Nero</hi> had been better than Saint <hi>Paul,</hi> who was b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with a meſſenger of Satan, our Saviour hath given us a rule to interpret providence by, <hi>Luck. 13. Think not that the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alile <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s were <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nners becauſe they ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffered ſuch things.</hi>
+            </p>
+            <p>2. What if God willing to ſhow his power and Soveraignty over his
+<pb n="5" facs="tcp:168766:5"/> Creature, that he is <hi>Dominus vitae neciſque,</hi> might handle her in this manner; our Divines hold that God may <hi>pro Dominio</hi> afflict an innocent perſon, not that I go about to free her from ſin, ſhe ſhe herſelf would be the firſt, if ſhe knew it, that would abhor me for it; yet that ſhe was tainted with any courſe inconſiſtent with the ſtate of Grace, I think malice it ſelf cannot charge her.</p>
+            <p>3. But I think this might be the maine reaſon; God ſaw her the fitteſt perſon amongſt us all to be made a monitor to us, to uſe our health and wits to thoſe ends for which they were given us, ſhe being one, whoſe ſufferings in this nature could not prejudice her future Happineſſe as having before-hand ſecured that by an early working out her ſalvation with feare and trembling.</p>
+            <p>We are now drawing to the end of her life, and this dicourſe, and we ſhall ſee that ſuch was the goodneſſe of God to her, that ſhe died as well as lived an excellent Chriſtian, renouncing all her own righteouſneſſe, and expecting ſalvation meerly by Ieſus Chriſt, yea, and that with much confidence and aſſurance, as is cleare, by the words ſhe ſpake about 2, or 3. houres before her death, <hi>viz.</hi> I acknowledge the great goodneſſe of my Saviour Jeſus Chriſt in ſaving my ſoul eternally. Which ſaid, ſhe gave up her ſoul to God, And doubtleſſe both in a ſpiritual and literall ſenſe is preſented a chaſte Virgin to Chriſt, in whoſe tender armes and raviſhing imbraces we now leave her, with this Congratulation (if youl indulge me that liberty) Enjoy thy Reſt oh virgin-bleſſed ſoule.</p>
+            <p>And grant good God, that we who ſurvive may walk in her ſteps, that ſo when Chriſt, who is our life ſhall appear, attended with her and thou<g ref="char:EOLhyphen"/>ſands of other Saints and Angels, we may together with her enter into thoſe manſions of eternal Bleſſing, which God hath prepared for thoſe that love and fear him.</p>
+            <p>And in the mean time, while we are in this vale of tears, <hi>may ſo live that we may dye, Rejoycing in hope of the Glory of God,</hi> which is the Text I intend to ſpeak to for our inſtruction upon this ſad and ſolemne oc<g ref="char:EOLhyphen"/>caſion of our meeting, which I the rather make choiſe of, becauſe it ſuit ſo well with this Condition, that ſweet heavenly poſture of ſoul I found her in, delighting in nothing but prayer and praiſing God, ſpeaking and contemplating of the joyes above. In which ſweet and happy temper, ſet<g ref="char:EOLhyphen"/>ting aſide the violent fitts of her diſeaſe, ſhe lived and died.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:168766:6"/>
+               <epigraph>
+                  <bibl>ROM 5. latter part of the ſecond verſe.</bibl>
+                  <q>
+                     <hi>And rejoyce in Hope of the Glory of God.</hi>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">T</seg>Heſe words are an amplification, or a further enumerati<g ref="char:EOLhyphen"/>on of the priviledges Believers have by Jeſus Chriſt. Great and glorious advantages are held forth in this and the former verſes.</p>
+               <p>We are juſtified, being juſtified we have peace with God through Jeſus Chriſt our Lord, by whom alſo we are brought into ſuch favour and acceptance with God, and this ſtate of favour ſo ſecur'd to us by Chriſt, that it begets in us, not only hope of glory, but rejoycing in hope of the Glory of God.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, The word, ſayes <hi>Beza,</hi> may well be explained in that in 2 <hi>Cor.</hi> 12. 10. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, <hi>maximam voluptatem ex i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s percipimus,</hi> i. e. <hi>Non ſolum aequo animo ſumus &amp; ab omni damnationis formidine liberi, imo de peccatorum remiſſione per Chriſti ſanguinem certiorati, &amp; inde magna laetitia perfuſi, exultamus de haereditate coelesti, quae nos manet:</hi> Through Chriſt we have not only freedom from Hell, but right to a glorious Inheritance, the Hope whereof doth ſo hugely pleaſe and delight us, that our Mouth is fill'd with laughter, and our Tongue with ſinging, <hi>We rejoyce in Hope of the glory of God.</hi>
+               </p>
+               <p>We have in the words:</p>
+               <list>
+                  <item>1. An Object, <hi>Glory.</hi>
+                  </item>
+                  <item>2. The qualification of it, <hi>The Glory of God.</hi>
+                  </item>
+                  <item>3. A double act of the ſoul exerciſed about this Object, <hi>Hope, and Rejoycing.</hi>
+                  </item>
+               </list>
+               <p>Which ſeveral parts I ſhall handle, in ſpeaking to this general Point of Doctrine, which takes in the whole Text, <hi>viz.</hi>
+               </p>
+               <pb n="7" facs="tcp:168766:6"/>
+               <p>Doctrine. <hi>That the future glory which Believers hope for, is ground of their preſent rejoycing.</hi>
+               </p>
+               <p>In ſpeaking to this Point, I ſhall firſt ſhew, that Believers hope for Glory.</p>
+               <p>Then, that they rejoyce in hope of it.</p>
+               <p>And as I ſpeak to them, ſhall gather ſeveral Doctrinal inferences by way of Inſtruction and Conſolation.</p>
+               <p>1. Concerning the hope of Believers, theſe Queſtions are briefly to be anſwered:</p>
+               <p>Queſt. 1. <hi>What hope is?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is a certain expectation of thoſe things that are promiſed us in Chriſt, and yet exhibited. Sometimes in Scripture, Hope is put for the things hoped for, but here I ſpeak of the act or grace of Hope.</p>
+               <p>Queſt. 2. <hi>How Hope differs from Faith, as reſpecting the promiſe of this Glory</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Faith aſſents to the truth of the Promiſe. Hope exſpects the performance of it, or as <hi>Luther</hi> excellently diſtinguiſhes: <hi>Fides intuetur verbum rei, Spes autem Rem verbi:</hi> the Object is the ſame, but the act<g ref="char:EOLhyphen"/>ings of the ſoul about the Object are different. Faith looks upon the Truth of the Promiſe, that God will give his Children eternal life; Hope waits when this ſhall be done, and the Hebrew word for Hope, comes from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifieth <hi>expectavit,</hi> a looking for a thing with a ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etch<g ref="char:EOLhyphen"/>ing out of the ſpirit or mind, &amp; therefore it is expreſſed in the Greek, by a word that ſignifies a ſtretching, or lifting up the head to look for a thing, <hi>Rom.</hi> 8 19. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Faith is to Hope as a mother, Hope back again to Faith as a pious and dutifull daughter: which like the young Stork nouriſhes and ſupports its Dam when ſhe grows weak &amp; feeble; which pious affection the Greeks call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. In this life-time we are, as one obſerves, beſet with manifold Temptations: The work of God ſeems oft-times contrary to his word, and things apparently fall out otherwiſe than God hath pro<g ref="char:EOLhyphen"/>miſed. That Faith is daunted and needs Hope to ſupport it. As for ex<g ref="char:EOLhyphen"/>ample, <hi>Pſal. 50. 15. Call upon me in the day of trouble, I'le deliver thee.</hi> Ac<g ref="char:EOLhyphen"/>cording to this promiſe, a Chriſtian calling upon God, and finding no de<g ref="char:EOLhyphen"/>liverance, begins to faint, then comes in Hope, and ſuccours it with that counſaile, <hi>Heb. 2. 3. Though deliverance tarry, wait for it, becauſe it will ſurely come, it will not tarry.</hi>
+               </p>
+               <p>Queſt. 3. <hi>
+                     <g ref="char:V">Ʋ</g>pon what is a Christians hope grounded?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Its grounded on the Grace of God, 1 <hi>Pet.</hi> 1. 13. For ſo ſome read the words: <hi>Be ſober, and truſt perfectly on the Grace that's brought to you by the Revelation of Jeſus Chriſt.</hi> For the Grace of God
+<pb n="8" facs="tcp:168766:7"/> is free and powerfull, and therefore affords ground for a Chriſtians hope, notwithſtanding all diſcouragements or Temptations to diſtruſt, that may ariſe either from the ſenſe of our own unworthineſſe, or weak<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>2. On the Redemption that is by Jeſus Chriſt, as is clear, 1 <hi>Pet.</hi> 1. 21. The Apoſtle ſpeaking that we were redeemed by the blood of Chriſt, ſayes, God raiſed him from the dead, and gave him glory, that our faith and hope may be in God.</p>
+               <p>3. Upon the promiſes.</p>
+               <p>It is alſo nouriſhed by prayer, patience, examples, and experience.</p>
+               <p>Queſt. 4. <hi>But may not a Believers hope ſometime fail, and may not a wicked man have hope?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> A godly mans Hope may be much weakened, the moſt active and vigorous Faith and Hope may grow ſlack in its acting, the brighteſt day of a Chriſtian may be over-clouded, by reaſon of that <hi>fomes peccati</hi> which is in the Reliques of Concupiſcence, and is the fountain and cauſe of new doubtings, yet the Sun gets from under the clouds, Hope re<g ref="char:EOLhyphen"/>covers its ſtrength, and overcomes thoſe doubts, <hi>adeo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> licet in praelio fortè ſuccumbat, in Bello tandem victrix e vadit,</hi> Though it may be worſted in a skirmiſh, yet it gets the victory in the battel.</p>
+               <p>And as for the hope of wicked men, as is their faith, ſuch is their hope, as the mother, ſuch the daughter, their faith is a fancy, and their hope preſumption.</p>
+               <p>And the Hope of good and bad men differ:</p>
+               <p n="1">1. In making out after the thing hoped for; a good man is carefull in the choice of meanes that he be not deceived: and diligent and pa<g ref="char:EOLhyphen"/>tient in the uſe of them, that he falls not ſhort of what he hopes for, <hi>Lament.</hi> 3. 29, 30, 31.</p>
+               <p>But ſuch is not a wicked mans hope, for either he wholly neglects the means, or elſe uſes them ſlightly.</p>
+               <p n="2">2. They differ in their duration, ſhall I ſay troubles, nay, death it ſelf cannot kill a godly mans hopes, <hi>Job 13. 15. but the hope of the hypocrite ſhall periſh.</hi>
+               </p>
+               <p>Thus much of the Act or Grace of Hope.</p>
+               <p>I come now to the Object of it, <hi>The Glory of God.</hi> And here I ſhall not preciſely handle it, in its own nature, but conſider it under the no<g ref="char:EOLhyphen"/>tion of an Object of Hope: and yet ſo it will hold forth to us, ſo much of the nature of this glory, as may afford us much matter of inſtruction, which I ſhall briefly raiſe as inferences as I go along.</p>
+               <p>The Object of Hope according to the Moraliſts, is, <hi>Bonum, futu<g ref="char:EOLhyphen"/>rum. Difficile, poſſibile.</hi>
+               </p>
+               <p n="1">
+                  <pb n="9" facs="tcp:168766:7"/>1. The Object of Hope is a good thing; we may then infer hence, that the Glory of God is good truly, and every way good, which may call us off from all immoderate deſire and ſeeking after other things: why do we go to ſinfull profits and pleaſures, ſaying, will ye ſhew us any good? Here's that that's good indeed, ſuch a good, upon which a Chri<g ref="char:EOLhyphen"/>ſtian pitching his hope is made good, and the more he hopes, the better it will make him. He that hath this Hope purifies himſelf.</p>
+               <p n="2">2. The Object of Hope is a good thing to come, it's abſent, for a man doth not hope for what he hath already. This then ſhould teach us patience in our expectation, <hi>Rom. 8. 24, 25. If we hope for that we ſee not, then do we with patience wait for it.</hi> The Husbandman waits with patience, becauſe he cannot reap as ſoon as he ſoweth.</p>
+               <p n="3">3. The Object of Hope is a difficult thing, a thing that's hard to come by.</p>
+               <p>And then it inſtructs us, both about the meanes to the uſed, and the manner of uſing them: He that hopes for any good thing, will uſe the meanes to obtain it, ſo he that hopes for Glory, will uſe the meanes, yea, and with all his might too. Things hard to be got, require our utmoſt paines and diligence.</p>
+               <p>This therefore may correct their miſtake, or ſpur up their lazy ſpi<g ref="char:EOLhyphen"/>rits: who ſay, they hope for Heaven, and hope to be ſaved, and yet are either wholly careleſs of uſing the meanes, or elſe uſe them ſo careleſly and negligently, as if it were no hard thing to obtain. Sure ſuch would make Heaven cheap, even unto vileneſs that would come thither with<g ref="char:EOLhyphen"/>out paines: I am ſure we have not ſo vile an eſteem of earthly things. But remember the Object of Hope is <hi>Bonum, arduum &amp; difficile;</hi> for if it were eaſie and feaſible at pleaſure, it would not be the object of Hope, but matter of our preſent poſſeſſion. And therefore there's a neceſſity of laying aſide either our lazineſs, or hopes of Heaven.</p>
+               <p>But that this difficulty may not diſcourage.</p>
+               <p n="4">4. The Object of Hope is a thing poſſible, no man can hope for that which is impoſſible. Let this then encourage us to duty; for neither our hope, nor labour ſhall be in vain in the Lord; nay, if we conſider the grounds of Hope before mentioned, it's not only poſſible, but certain, whereto agrees that of <hi>Auguſtine,</hi> quoted by <hi>Zanchy, Tria conſidero in quibus ſpes mea tota conſiſt it. Charitatem adoptionis, veritatem promiſ<g ref="char:EOLhyphen"/>ſionis, poteſtatem redditionis,</hi> and therefore fooliſh thoughts, ſayes he, murmur as much as you will, ſaying, who art thou, or how great is that glory, or with what merits doſt thou hope for Heaven? and I will con<g ref="char:EOLhyphen"/>fidently anſwer you, I know whom I have believed, and am certain enough that my hope ſhall not be fruſtrated; <hi>Quia in charitate nimia
+<pb n="10" facs="tcp:168766:8"/> adoptavit me Deus, &amp; quia verax est in promiſsione, &amp; potens in ex<g ref="char:EOLhyphen"/>hibitione.</hi> If we would yet further know what is this future, hard, poſſible good thing that Believers hope, the Text ſaith it is the glory of God.</p>
+               <p>The Glory of God is ſeveral wayes taken in Scripture, but here it is taken for heavenly happineſs, for that life eternal which con<g ref="char:EOLhyphen"/>ſiſts in a participation of Gods glory, is begun in this life in the reparation of the glorious Image of God by the grace of Regenera<g ref="char:EOLhyphen"/>tion, which is called <hi>Glory, 2 Cor.</hi> 3. 18. And perfected in heaven, which glorious inheritance is called <hi>The hope of Chriſtians, Hebrewes</hi> 6. 18.</p>
+               <p>He that is Heir to a Kingdom, though as glorious as that of <hi>Solo<g ref="char:EOLhyphen"/>mons,</hi> his hopes are not to be compared to a Chriſtians. For behold a greater, better, and more glorious Inheritance than <hi>Solomons</hi> is here, and therefore call'd glory in the abſtract, and glory of God; great or eminent glory, and it exceeds all other glory.</p>
+               <list>
+                  <item>1. In Splendor and Luſtre,</item>
+                  <item>2. In real Worth and Satisfaction.</item>
+                  <item>3. In Suitableneſs and Proportion.</item>
+                  <item>4. In Certainty and Duration. Theſe I wave.</item>
+               </list>
+               <p>Thus briefly what's meant by the glory of God, I find four reaſons why heavenly happineſs is call'd Glory.</p>
+               <p n="1">1. Becauſe of the glorious company that is in that high and holy place: The place, the company, the imployment, is all glorious.</p>
+               <p n="2">2. Becauſe the divine Glory, or Majeſtly of God is there moſt conſpicuous and manifeſt.</p>
+               <p n="3">3. Becauſe moſt glorious and divine gifts are there diſpenc'd.</p>
+               <p n="4">4. Becauſe there our bodies and ſouls will be moſt glorious.</p>
+               <p>Now let us make ſome further application of what hath been ſaid.</p>
+               <p>
+                  <hi>Uſe</hi> I. Do Believers hope for glory, and is it ſuch a glory they hope for, then they are not men of ſuch a forlorn condition as the world judges them to be. They are richer and happier in their hopes than others that want theſe hopes in their preſent poſſeſſion. Its ſuch a hope, <hi>Cui falſum ſubeſſe non potest.</hi>
+               </p>
+               <p>
+                  <hi>Uſe</hi> II. See hence the reaſon of their courage and patience in bear<g ref="char:EOLhyphen"/>ing Afflictions, undergoing troubles in the world: here's the reaſon they hope for better, Gods promiſe and Chriſts merits are the root of a Chriſtians hope; and Peace, Patience, Courage in evil times are the fruit of it.</p>
+               <pb n="11" facs="tcp:168766:8"/>
+               <p>And there's the reaſon why I ſhould exhort and encourage to let patience have its perfect work, and to go on through all oppoſition with an undaunted courage in the wayes of God, to keep your pace towards Heaven, be the weather fair or foul; though the way be foul, the journey end will be fair. Be we then ſtedfaſt and unmoveable, al<g ref="char:EOLhyphen"/>way attending in the work of the Lord, for as much as we know our labour ſhall not be in vain in the Lord.</p>
+               <p>And when we begin to faint, and grow weary under the burden of Afflictions, or in the duties of Religion, let this hope of glory quicken us. Let's call to mind that of the Apoſtle, <hi>Rom.</hi> 8. Theſe light Afflictions, which are but for a moment, are not to be compared to that eternal weight of glory: Oh let this joy that's ſet before us, make us follow our Maſter, enduring the Croſs. See 2 <hi>Cor.</hi> 4. 16, 17. This hope made the Martyrs embrace the flames, and kiſs the ſtake, <hi>Pericula non reſpicit Martyr ſed Coronas.</hi>
+               </p>
+               <p>
+                  <hi>Uſe</hi> III. Do Chriſtians hope for the glory of God? then let us make uſe of this to abate our eſteem, and moderate our affections to the things of this life. If we find our hearts enſnar'd and en<g ref="char:EOLhyphen"/>amoured with the beauty and excellency of outward things, there can be no better way to take off our inordinate affection, than by pitching upon ſomething thats' better; Let's endeavour therefore to gather clearer views of the beauty and glory of holineſs and hap<g ref="char:EOLhyphen"/>pineſs, and this will darken the glory of outward things, as the ſhi<g ref="char:EOLhyphen"/>ning of the Sun doth the glimmering of the leſſer Stars; that as we compare the glories of this world with this glory of God, we ſhall ſay as the world did of Chriſt, there is no comlineſs or beauty in them, why we ſhould deſire them?</p>
+               <p>It may ſerve alſo to help us againſt temptations: He that hath this hope alſo, or the glory of God, would not ſell his hopes for all the pomps and glittering vanities of the world: ſuch hope heightens our ſpirits to ſuch a degree of generouſneſs and true magnanimity, that we ſhall reject with infinite diſdain, the higheſt offers of pre<g ref="char:EOLhyphen"/>ferment and worldly honours, if they be made as baites to tempt us from God, and hinder us of this glory which is the object of our hope; a famous inſtance of this we have in <hi>Moſes,</hi> and that other, <hi>Moſes,</hi> the noble <hi>Galeacius, Sanctus dum appetit aeternitatem, infraſe habet omne quod tranſit.</hi>
+               </p>
+               <pb n="12" facs="tcp:168766:9"/>
+               <p>
+                  <hi>Uſe</hi> IV. Let this ſerve alſo to ſweeten to us the bitter cup of death. Let us be content that our bodies ſhould for a while be turned into rottenneſs and duſt, for God will not alway leave us in the grave, our fleſh ſhall not alway ſee corruption; we do but lay down an evil body to take up a glorious one, for it will change our vile bodies, that they may be faſhioned like unto his glorious body.</p>
+               <p>When Chriſt, who is our life ſhall appear, we ſhall alſo appear with him in Glory. Certainly this conſideration may raiſe us, not only above the fear of death, but even to triumph over it in the words of the Apoſtle, <hi>O death where is thy ſting, O grave where is thy victory!</hi>
+               </p>
+               <p>
+                  <hi>Uſe</hi> V. Let this alſo abate our ſorrow for the dead, which uſe the Apoſtle <hi>Paul</hi> makes for us to our hands. 1 <hi>Theſ. 4. 13. For I would not have you ignorant, brethren, concerning them which are aſleep, that you ſorrow not even as others which have no hope. For if we be<g ref="char:EOLhyphen"/>lieve that Ieſus died and roſe again, even ſo them alſo which ſleep in Ieſus will God bring with him.</hi> Should we trouble at their advance<g ref="char:EOLhyphen"/>ment, or deſire to detain them from their happineſs (when God ſees them fit for it) to ſerve our conveniences?</p>
+               <p>
+                  <hi>Uſe.</hi> VI. Let us all labour to get this hope of glory, that ſo we may have an Anchor ſure and ſtedfaſt to keep our ſouls from ſplit<g ref="char:EOLhyphen"/>ting againſt the rocks of preſumption, or ſinking in the ſands of de<g ref="char:EOLhyphen"/>ſperation, and bear up againſt the winds and waves of perſecution and temptation, which we are likely enough to meet withal in this preſent evil world, and having obtained this hope of glory, let us mind the Apoſtles exhortation. 1 <hi>Theſ.</hi> 3. 11, 12. To walk worthy of God, who hath called us to his Kingdome and Glory. This will ſtrengthen our hope for hope is fed with the duties of obedience, and ſo at length we ſhall ariſe to rejoycing in hope of the glory of God, which is the next act of the ſoul that's exerciſed about this glorious object. <hi>We rejoyce in hope of the glory of God.</hi>
+               </p>
+               <p>
+                  <hi>Believers rejoyce in this hoped for Glory.</hi> Chriſtians have their joy even then when they ſeeme to the world the moſt uncomfortable people in it, their hearts are not alwayes pen't up with ſorrow and ſtuffed with griefe. They doe not, I am ſure, they need not alway ſigh and weep. They may ſometime laugh and ſing, the word ſignifies ſuch a joy as is not be conteined, that will not be kept in, but glories and makes us boaſt of God and the great things of Heaven.</p>
+               <pb n="13" facs="tcp:168766:9"/>
+               <p>There are ſeverall ſorts of joy. But the joy here meant, is ſuch as is wrought in the ſoule by the ſpirit of God, evidencing to a Chriſtian the pardon of his ſin, the acceptance of his perſon and ſervice, and ſo confirming his hopes of the glory of God. The greatneſſe of theſe mercies apprehended is ſuch as fills the heart with gladneſſe and the tongue with ſinging.</p>
+               <p>This rejoycing is faith triumphant, its not only a vitall act of a Chriſti<g ref="char:EOLhyphen"/>an, but a lively and rigorous act. Such as ſpeakes the ſoul to be in a heal<g ref="char:EOLhyphen"/>thy and ſound conſtituition.</p>
+               <p>
+                  <hi>Reaſ.</hi> And ſurely well may Chriſtians rejoyce, if we conſider the na<g ref="char:EOLhyphen"/>ture of the object of their joy; it is, as you have already heard, the glory of God. Concerning which if you ſhould further ask what it is, I muſt needs ſay I cannot tell, only I know its ſuch as will poſe the ableſt parts, the richeſt fancy of the moſt eloquent oratour, ſo much as to ſhadow it forth, ſuch is the excellency of it, as words will but darken and eclips its glory, if we ſtay upon them, the ſun doth not more benight the ſtars, than that glory will the luſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of a thouſand ſuns: The truth is, eye hath not ſeene, nor ear heard, nor hath it entred into the heart of man to con<g ref="char:EOLhyphen"/>ceive.</p>
+               <p>It doth not appear how tranſcendently glorious we ſhall be. It cannot be fully known, but by enjoying, which will be when we come to heaven. And therefore when a chriſtian is drawing near heaven, &amp; would faine know, what the glory of it is, Chriſt ſends Death which bids him come and ſee: And when a Chriſtian that hath had the cleareſt views and fulleſt diſcovery of its beauty and ſweetneſſe to his ſoule ſhall come thither, he muſt ſay that he neither ſaw nor taſted the one half, nay not the thouſandth part of its glory.</p>
+               <p>As I did before, ſo I ſhall here alſo draw ſome ſhort doctrinall con<g ref="char:EOLhyphen"/>cluſions hence, whereby we may underſtand ſomething more of the na<g ref="char:EOLhyphen"/>ture of this glory, and conſequently what good grounds a Chriſtian hath for his rejoycing in hopes of it.</p>
+               <p>1. Do believers rejoyce in hope of glory? Then this informes us, 1. of the excellency of heavenly happineſſe, wiſe men do not rejoyce at every petty and trivial advantage: Its not enough that the object of joy be a good thing but it muſt be excellently good, <hi>P. 119. 162. I rejoyce in thy word as one that findeth great ſpoils.</hi> They are great things that are the matter of joy, ſuch is the glory of Heaven, it filis every chink and cranny of the ſoul that it finds no emptineſſe or diſſatisfaction, <hi>Pſal. 16. In thy preſence is fullneſſe of joy, at thy right hand are pleaſures for ever<g ref="char:EOLhyphen"/>more.</hi>
+               </p>
+               <pb n="14" facs="tcp:168766:10"/>
+               <p>How then do ſuch bewray their ignorance and unacquaintance with heaven, who can rejoyce in the things of this life, but as to heaven find no motion or joyfull inclination.</p>
+               <p>Nay, how do they ſhame themſelves, who can rejoyce in the ſatisfaction of their luſts, glory in their beaſtly ſenſuality, and are meere changes to this joy, theſe certainly either do not hope for heaven, or elſe they know not what it is.</p>
+               <p>Do Believers rejoyce? <hi>&amp;c.</hi> then Heaven is their inheritance, they have propriety in it: Chriſt hath purchaſed it, and entitled them to it upon their believing; men little rejoyce in a thing that's excellent, if not their own: men may like and commend the ſtately buildings plea<g ref="char:EOLhyphen"/>ſant Fields, Gardens and Walks of another mans, but they do not rejoyce in them, propriety gives great advantage to affection, 2 <hi>Cor. 4. verſ. ult.</hi> they did not faint at tribulation, but could glory in all their ſuffer<g ref="char:EOLhyphen"/>ings: ſee the reaſon of this, <hi>chap. 5. 1. For we know—we have an Houſe, a building of God, not made with hands, eternal in the Heavens.</hi> Believers have the beſt eſtate, and beſt evidence for it in the world. It's purchaſed by Chriſt, the Deeds drawn and ſeal'd by his precious blood: yea, he hath taken poſſeſſion of it in his head, and therefore now he rejoyceth in hope of a full enjoyment of it.</p>
+               <p>3. Infer hence the certainty of heavenly happineſs. Eſtates here are uncertain, but that ſuch as we ſhall not only have &amp; hold for preſent, but poſſeſſe and enjoy for ever, and therefore its called everlaſting life, and an inheritance incorruptible and undefiled, that never fades away; certainly God would never raiſe his people to rejoyce in hopes of ſuch a Happineſſe, which ſhould more ſad them in the falling, than delight them in the enjoyment. Fear of loſing a thing doth much abate our re<g ref="char:EOLhyphen"/>joycing in it but once hapy in heaven, and never miſerable.</p>
+               <p>All this, as it comends the happineſſe of heaven, and helps us to a view of the Glory of God, ſo meethinks we ſhould be taken as the Apoſtles were at our Saviours tranſfiguration, and ſay, maſter, its good being there; and ſo ſhould move us to get into the number of Gods children, and put, us upon ſtudying how we may be meet to be partakers of this glorious inheritance with the Saints in light.</p>
+               <p>This Text would alſo chide Chriſtians for being ſad; <hi>We rejoyce in hope of the glory of God.</hi> And in the Epiſtle to the <hi>Philippians, We re<g ref="char:EOLhyphen"/>joyce in Christ Jeſus:</hi> certainly then they diſcover their ignorance and unacquaintance with the true nature of Religion, who repreſent Re<g ref="char:EOLhyphen"/>ligion as a thing that's made up of nothing, but ſorrow and terrours, and a kind of whining male-contentedneſs, whereas its not only lawfull
+<pb n="15" facs="tcp:168766:10"/> for Chriſtians to rejoyce, but their duty, and when they are them<g ref="char:EOLhyphen"/>ſelves and in tune, they do ſo. It is the very Character of a Chri<g ref="char:EOLhyphen"/>ſtian to rejoyce in the hope of the glory of God.</p>
+               <p>They therefore miſtake Chriſtianity, who will neitheir be cheerfull themſelves, nor like it in others, but pleaſe themſelves to be in a mourning and complaining condition, as if this was the na<g ref="char:EOLhyphen"/>tural frame and proper temper of a Chriſtian; When a Chriſtian in this temper is off the hooks, quite out of frame, and never leſs like himſelf.</p>
+               <p>Know this, that Chriſtianity doth not require this of her followers, to live under conſtant agonie: and horrors in a muttering complain<g ref="char:EOLhyphen"/>ing condition; No, it requires them to rejoyce in God, to make their boaſt of him all the day, and having obtained peace with God, through Jeſus Chriſt, and hopes of heaven to rejoyce in thoſe hopes. No good comes of peeviſh ſoure male-content and dumpiſhneſs. It doth no good to the perſon ſo affected, but diſhonours God, calls in<g ref="char:EOLhyphen"/>to queſtion the ſatisfaction of our Saviour, reproaches Religion, diſparages heaven, unfits the heart for duty. Doth Chriſt, do you think, delight to ſee his Spouſe wringing her hands, and tearing her hair; It pleaſes none but the Devil and his Inſtruments, who are enemies to God and his people. Yet ſuch is the infirmity and weak<g ref="char:EOLhyphen"/>neſs of ſome weak Chriſtians, that to be querulous and peeviſh, to reject the tenders of mercy and love, as things too good for them, they think the moſt proper and fitteſt ſtate for them. I confeſs to mourn when we have offended God, is ingenuous and be<g ref="char:EOLhyphen"/>coming, but to refuſe to be comforted, when God calls upon us to rejoyce, is Pride, Peeviſhneſs and Sullenneſs, and which doth both grieve and provoke God.</p>
+               <p>That ſorrow that prepares for comfort, that empties the heart of ſin, that ſo there be no room to receive the greater meaſures of Grace, and take in the larger draughts of conſolation, is good; but that which ariſes from hard thoughts of God, and tends to the nou<g ref="char:EOLhyphen"/>riſhing thoſe ungrounded and injurious ſuſpitions of Gods willingneſs to receive thoſe burdened ſouls, that would have eaſe from him, and ſo keep the ſoul off from God is no way agreeable to the tenour of the Goſpel, no way tending to the credit of Religion, contributes nothing to the bettering of a Chriſtians condition. I know nothing that's more unbecoming or diſadvantagious to any honeſt upright heart.</p>
+               <p>
+                  <hi>Many other uſes might be made of this point;</hi> I ſhall conclude all in a few words further. <hi>Do</hi> Chriſtians rejoyce in hope of Glory? Then
+<pb n="16" facs="tcp:168766:11"/> take heed of ſuch a frame of heart, and ſuch a courſe of life as will contradict ſuch hopes, as will lock up the heart from rejoycing: and ſtop the mouth from glorying in hope of Heaven.</p>
+               <p>That I would ſay to you, you find <hi>Tit.</hi> 2. 11, 12. They who would look for this bleſſed hope, muſt deny ungodlineſs, and worldly luſt, and live righteouſly, godly and ſoberly in this preſent world.</p>
+               <p>The Spirit of Holineſs, and hopes Happineſs muſt be joyned toge<g ref="char:EOLhyphen"/>ther. Therefore all prophane perſons that never mind God, that will not endure the troubles and croſs of holineſs, may not look for the Crown of Happineſs. Can thoſe who are ſtrangers to the life of God, look for the Glory of God? Can thoſe look for the glory of hea<g ref="char:EOLhyphen"/>ven, whoſe converſation is in hell; be not deceived, prophaneneſſe leads not to hope, but to deſpair; but you my Bretheren, abhor that which is evil, make conſcience of living holily. Get more meaſures of Grace, that you may have a good Hope through grace. and ſtrong Con<g ref="char:EOLhyphen"/>ſolation flowing thence, and then rejoyce in the Lord, and again, I ſay, rejoyce. You that are ſad and mourning Chriſtians, do not disjoyn your ſorrow from your expectation of Glory; as you look downward and mourn, ſo look upward and rejoyce, while you are ſighing for ſin, pant after your Saviour; while you are in the Valley of ſorrow and ſuffering, look up to the mount of Joy and felicity, ſee the Crown of Glory provided for you, know that when Chriſt appears, you ſhall appear with him in glory, and rejoyce in this hope of the glory of God.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
